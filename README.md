@@ -148,7 +148,7 @@ All 12 measures are stored in a dedicated _Measures table in Power BI, organised
 
 # Dashboard And Insights
 
-[View Interactive Dashboard Here](Smart Meter Adoption & Consumption Behaviour Analysis/Smart Meter Adoption & Consumption Behaviour Analysis.pbix)
+[View Interactive Dashboard Here](SmartMeterAdoption&ConsumptionBehaviourAnalysis/SmartMeterAdoption&ConsumptionBehaviourAnalysis.pbix)
 
 ## Smart Meter Impact Overview
 
